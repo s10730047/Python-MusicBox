@@ -1,36 +1,11 @@
-# Simple Flask Music Streaming App 
+python音樂播放器
 
-A simple Flask app for streaming music
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
+須先安裝
 Python 3
 Flask
 Tornado Web Server
-```
 
-### Installing
-
-Installing dependencies 
-```
-pip install -r requirements.txt
-```
-Once all packages are downloaded and installed run.
-
-```
-python app.py
-```
-
-## Running the tests
-
-Open up your browser and visit
+執行python3 app2.py
 ```
 http://localhost:5000
 
